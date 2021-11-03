@@ -1,5 +1,4 @@
 - 👋 Oi, sou @denisdbp
-- 👀 Estou interessado em aprender desenvolvimento Android Kotlin e IOS Swift
 - 🌱 Atualmente estudando as duas liguagens de programação Mobile, Kotlin e Swift
 
 <!---
