@@ -1,5 +1,5 @@
 - 👋 Oi, sou @denisdbp
-- 🌱 Atualmente estudando as duas liguagens de programação Mobile, Kotlin e Swift
+- 🌱 Atualmente trabalho com suporte tecnico em TI, mas estudando para me tornar um Desenvolvedor IOS Swift
 
 <!---
 denisdbp/denisdbp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
