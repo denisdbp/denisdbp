@@ -1,5 +1,5 @@
 - 👋 Oi, sou @denisdbp
-- 🌱 Sou Desenvolvedor IOS Junior e estou em busca da primeira oportunidade na área.
+- 🌱 Sou Desenvolvedor IOS e estou em busca da primeira oportunidade na área.
 
 <!---
 denisdbp/denisdbp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
