@@ -1,5 +1,5 @@
 - 👋 Oi, sou @denisdbp
-- 🌱 Sou Analista DevOps e estou em busca de oportunidades na área.
+- 🌱 Sou Desenvolvedor iOS e estou em busca de oportunidades na área.
 
 <!---
 denisdbp/denisdbp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
